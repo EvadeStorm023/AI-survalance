@@ -1,0 +1,32 @@
+#head{
+width: 100%;
+margin-top: 0px;
+background-color: red;
+}
+
+body{
+    background-size: cover;
+}
+
+#footer{
+ 
+    bottom: 0;
+    position: fixed; 
+    width: 100%;
+    background-color: red;
+    font-size: 20px;
+    margin: 0;
+    padding: 10px;
+ color: white;
+}
+
+canvas{
+    box-shadow: 15px 15px 50px red;
+  background-color: black;
+  border-radius: 15px; 
+}
+
+#start_button{
+  margin: 10px;
+  border-radius: 15px;
+}
